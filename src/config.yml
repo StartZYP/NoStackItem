@@ -1,0 +1,8 @@
+NoStackItem:
+  35:
+    StackNum: 1
+  38:
+    StackNum: 3
+  66:
+    StackNum: 1
+Msg: 你的物品组数超过上限

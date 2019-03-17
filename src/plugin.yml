@@ -1,0 +1,5 @@
+name: NoStackItem
+main: com.qq44920040.Minecraft.NoStackItem
+version: 1.0
+commands:
+  mws:
